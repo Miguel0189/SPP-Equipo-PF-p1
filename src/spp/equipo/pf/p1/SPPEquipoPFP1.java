@@ -3,6 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+// integrantes del equipo:
+//Alberto Isaac Gómez Jiménez A01410769
+// Jorge Daniel Del Angel Bombardier  A01410409
+// Angel Avalos Ortega A01410325
+//Miguel Mendez Nevarez A01411490
 package spp.equipo.pf.p1;
 import javax.swing.JOptionPane;
 /**
